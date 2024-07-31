@@ -1,0 +1,15 @@
+my-flask-app/
+│
+├── app.py
+├── sia.pkl
+├── tokenizer/
+│   ├── config.json
+│   ├── merges.txt
+│   ├── tokenizer.json
+│   └── vocab.json
+├── model/
+│   ├── config.json
+│   ├── pytorch_model.bin
+│   └── special_tokens_map.json
+└── templates/
+    └── index.html
